@@ -1,0 +1,20 @@
+Hello! My name is Chase. I play in a band called The Deaf Pilots from Los Angeles, CA. We just released our new album “These Are The Times” and would like to see if you'd consider giving it a spin on ${RADIO_STATION}.
+
+https://open.spotify.com/album/3mS91ha7uaSat3TEBXARUq
+
+A little about us:
+High energy, face melting, soul stealing rock n' roll! Manning the helm is Derek Julian, with his captivating lead vocals and electrifying guitar playing. On the low end spectrum, we have Chase Crawford on bass/backing vocals. And keeping the train moving and the foundation shaking is Andrew Orozco on drums/backing vocals. The Deaf Pilots seamlessly mix classic rock elements, with a modern edge to create a sound that is all their own!
+
+We would love to hear our sound in ${CITY} on ${RADIO_STATION}!!
+
+More Music:
+Spotify - https://open.spotify.com/artist/7zG1YDA3jNjJAU63WEXyAU
+YouTube - https://www.youtube.com/user/thedeafpilots/videos/
+
+Social Media:
+Instagram - https://www.instagram.com/thedeafpilots
+Facebook - https://www.facebook.com/thedeafpilots
+
+Thank you,
+Chase
+The Deaf Pilots
